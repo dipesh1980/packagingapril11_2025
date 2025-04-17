@@ -23,7 +23,7 @@ Example: **Ball Grid Array (BGA)** uses molding compound & wire bonds to connect
 > iPhone 15 integrates chips from Broadcom, TI, SK Hynix, Renesas, STMicroelectronics—all packaged and mounted on a logic board.
 
 </details>
-
+<td><img src="../images/module1/Picture1.png" width="250"/></td>
 ---
 
 <details>
@@ -47,6 +47,8 @@ Micron, CG Power-Renesas, TATA Electronics, and Kaynes Semiconductor are emergin
 
 <details>
 <summary><strong>🔹 Technical Considerations in Package Design</strong></summary>
+  
+<td><img src="../images/module1/Picture2.png" width="250"/></td>
 
 ### Critical Selection Criteria:
 - Application Type (Logic, Memory, Power)
@@ -58,7 +60,7 @@ Micron, CG Power-Renesas, TATA Electronics, and Kaynes Semiconductor are emergin
 These guide choices like QFN, BGA, CoWoS, and others.
 
 </details>
-
+<td><img src="../images/module1/Picture3.png" width="250"/></td>
 ---
 
 <details>
@@ -84,7 +86,7 @@ CoWoS integrates logic + HBM via silicon interposer for AI & HPC systems.
 
 <details>
 <summary><strong>🔹 Structural Hierarchy & Packaging Options</strong></summary>
-
+<td><img src="../images/module1/Picture4.png" width="250"/></td>
 ### Hierarchical Layers:
 1. **Semiconductor Die(s)**
 2. **Package Substrate**
@@ -99,7 +101,7 @@ CoWoS integrates logic + HBM via silicon interposer for AI & HPC systems.
 - PBGA, fcCSP, 2.1D, 2.3D, 2.5D, 3D
 
 </details>
-
+<td><img src="../images/module1/Picture5.png" width="250"/></td>
 ---
 
 <details>
