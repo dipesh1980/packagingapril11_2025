@@ -128,10 +128,5 @@ Click `Validate` from the top bar
 ## 📸 Screenshots
 
 > *(Include screenshots of each step in this section if available, or link to a `/screenshots/` folder)*
-<table>
-  <tr>
-    <td><img src="../images/.txt/" width="250"/></td>
-  
-  </tr>
- </table> 
+
 ---
