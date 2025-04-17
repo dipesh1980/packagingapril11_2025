@@ -175,5 +175,3 @@ Outsourced Semiconductor Assembly & Test (OSAT) hubs—or in-house ATMP wings at
 
 ---
 
-📁 *Repository: `Ansys_Semiconductor_Packaging/Module2`*
-
