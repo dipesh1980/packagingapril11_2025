@@ -42,7 +42,7 @@ Example: **Ball Grid Array (BGA)** uses molding compound & wire bonds to connect
 
 ### 📍 India Rising:
 Micron, CG Power-Renesas, TATA Electronics, and Kaynes Semiconductor are emerging leaders.
-
+![image](../images/module1/Picture2.png)
 </details>
 
 ---
@@ -50,7 +50,7 @@ Micron, CG Power-Renesas, TATA Electronics, and Kaynes Semiconductor are emergin
 <details>
 <summary><strong>🔹 Technical Considerations in Package Design</strong></summary>
   
-<td><img src="../images/module1/Picture2.png" width="250"/></td>
+
 
 ### Critical Selection Criteria:
 - Application Type (Logic, Memory, Power)
@@ -60,9 +60,9 @@ Micron, CG Power-Renesas, TATA Electronics, and Kaynes Semiconductor are emergin
 - Form Factor Constraints
 
 These guide choices like QFN, BGA, CoWoS, and others.
-
+![image](../images/module1/Picture3.png)
 </details>
-<td><img src="../images/module1/Picture3.png" width="250"/></td>
+
 ---
 
 <details>
@@ -88,7 +88,7 @@ CoWoS integrates logic + HBM via silicon interposer for AI & HPC systems.
 
 <details>
 <summary><strong>🔹 Structural Hierarchy & Packaging Options</strong></summary>
-<td><img src="../images/module1/Picture4.png" width="250"/></td>
+
 ### Hierarchical Layers:
 1. **Semiconductor Die(s)**
 2. **Package Substrate**
@@ -101,9 +101,9 @@ CoWoS integrates logic + HBM via silicon interposer for AI & HPC systems.
 
 ### 📐 Integration Classes:
 - PBGA, fcCSP, 2.1D, 2.3D, 2.5D, 3D
-
+![image](../images/module1/Picture4.png)
 </details>
-<td><img src="../images/module1/Picture5.png" width="250"/></td>
+
 ---
 
 <details>
