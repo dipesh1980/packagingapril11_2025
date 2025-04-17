@@ -130,8 +130,75 @@ Click `Validate` from the top bar
 > *(Include screenshots of each step in this section if available, or link to a `/screenshots/` folder)*
 <table>
   <tr>
-    <td><img src="../images/module 3/.png - Copy.png" width="250"/></td>
+    <td><img src="../images/Picture1.png" width="250"/></td>
+    <td><img src="../images/Picture2.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 220840 - Copy.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/module3/Screenshot 2025-04-04 220840.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 221220 - Copy.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 221220.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/module3/Screenshot 2025-04-04 221657 - Copy.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 221657.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 221825 - Copy.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/module3/Screenshot 2025-04-04 221825.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 222041 - Copy.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 222041.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/module3/Screenshot 2025-04-04 222103 - Copy.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 222103.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 222453 - Copy.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/module3/Screenshot 2025-04-04 222453.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 222516.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 222746.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/module3/Screenshot 2025-04-04 222453.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 223108.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 223300.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/module3/Screenshot 2025-04-04 223415 - Copy.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 223415.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 223843.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/module3/Screenshot 2025-04-04 223904.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 224148.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 224249.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/module3/Screenshot 2025-04-04 224409.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 224954.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 225019.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/module3/Screenshot 2025-04-04 225048.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 225112.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 225310.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/module3/Screenshot 2025-04-04 225336.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 225509.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 225808.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/module3/Screenshot 2025-04-04 225839.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 230328.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 235038.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/module3/Screenshot 2025-04-04 235105.png" width="250"/></td>
+    <td><img src="../images/module3/Screenshot 2025-04-04 235203.png" width="250"/></td>
     
-  </tr> 
-  </table>
+  </tr>
+
+</table>
 ---
