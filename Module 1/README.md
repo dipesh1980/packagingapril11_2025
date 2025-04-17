@@ -42,7 +42,7 @@ Example: **Ball Grid Array (BGA)** uses molding compound & wire bonds to connect
 
 ### 📍 India Rising:
 Micron, CG Power-Renesas, TATA Electronics, and Kaynes Semiconductor are emerging leaders.
-![image](../images/module1/Picture2.png)
+![image](../images/Module1/Picture2.png)
 </details>
 
 ---
@@ -60,7 +60,7 @@ Micron, CG Power-Renesas, TATA Electronics, and Kaynes Semiconductor are emergin
 - Form Factor Constraints
 
 These guide choices like QFN, BGA, CoWoS, and others.
-![image](../images/module1/Picture3.png)
+![image](../images/Module1/Picture3.png)
 </details>
 
 ---
@@ -81,7 +81,7 @@ These guide choices like QFN, BGA, CoWoS, and others.
 
 ### 📌 Case Study – CoWoS
 CoWoS integrates logic + HBM via silicon interposer for AI & HPC systems.
-
+![image](../images/Module1/Picture4.png)
 </details>
 
 ---
@@ -101,7 +101,7 @@ CoWoS integrates logic + HBM via silicon interposer for AI & HPC systems.
 
 ### 📐 Integration Classes:
 - PBGA, fcCSP, 2.1D, 2.3D, 2.5D, 3D
-![image](../images/module1/Picture4.png)
+![image](../images/Module1/Picture5.png)
 </details>
 
 ---
