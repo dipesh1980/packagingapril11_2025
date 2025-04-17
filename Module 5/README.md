@@ -46,4 +46,26 @@ Set the thickness to:
   - Associated wire bonds
 - Set the thickness to:
   
+- Assign mold material properties such as:
+  - **Epoxy Molding Compound**
+
+</details>
+
+---
+
+## 📸 Simulation Steps
+
+> *(Add screenshots here)*  
+You can include screenshots of each step to visually document the simulation process.
+
+---
+
+## 🛠️ Tools Used
+
+- Bondwire tool (for wire bonding)
+- CAD/EDA tool for die and substrate modeling
+
+---
+
+
 
