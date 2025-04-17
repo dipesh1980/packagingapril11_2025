@@ -23,7 +23,7 @@ Example: **Ball Grid Array (BGA)** uses molding compound & wire bonds to connect
 > iPhone 15 integrates chips from Broadcom, TI, SK Hynix, Renesas, STMicroelectronics—all packaged and mounted on a logic board.
 
 </details>
-<td><img src="../images/module1/Picture1.png" width="250"/></td>
+<td><img src="../images/Picture1.png" width="250"/></td>
 ---
 
 <details>
