@@ -130,9 +130,9 @@ Click `Validate` from the top bar
 > *(Include screenshots of each step in this section if available, or link to a `/screenshots/` folder)*
 <table>
   <tr>
-    <td><img src="../images/Picture1.png" width="250"/></td>
-    <td><img src="../images/Picture4.png" width="250"/></td>
-    <td><img src="../images/Picture5.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture1.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture4.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture5.png" width="250"/></td>
   </tr>
   <tr>
     <td><img src="../images/Picture6.png" width="250"/></td>
