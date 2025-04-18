@@ -16,6 +16,7 @@ A seamless transformation from bare silicon to a packaged IC requires coordinate
 
 **Inputs**: Prime-grade Si wafers, photolithography tools, process chemistries  
 **Deliverables**: Patterned wafers housing thousands of dies
+![image](../images/Module2/Picture1.png)
 </details>
 
 <details>
@@ -23,6 +24,7 @@ A seamless transformation from bare silicon to a packaged IC requires coordinate
 
 **Inputs**: Substrates, bonding materials, encapsulants  
 **Processes**: Dicing, die-attach, wire/flip-chip bonding, encapsulation, electrical test
+![image](../images/Module2/Picture2.png)
 </details>
 
 <details>
@@ -37,6 +39,7 @@ A seamless transformation from bare silicon to a packaged IC requires coordinate
 
 **Inputs**: Board-level assemblies, mechanical enclosures  
 **Outputs**: Turnkey electronic products (e.g., smartphones, servers)
+![image](../images/Module2/Picture3.png)
 </details>
 
 ---
@@ -113,6 +116,7 @@ Outsourced Semiconductor Assembly & Test (OSAT) hubs—or in-house ATMP wings at
   <summary>1. Bump Formation</summary>
 
 - Electroplating SnAgCu (~80 µm)
+- ![image](../images/Module2/Picture4.png)
 </details>
 
 <details>
@@ -164,6 +168,7 @@ Outsourced Semiconductor Assembly & Test (OSAT) hubs—or in-house ATMP wings at
 
 - Cu pillars, SAC305 caps  
 - Reflow for adhesion
+- ![image](../images/Module2/Picture5.png)
 </details>
 
 <details>
