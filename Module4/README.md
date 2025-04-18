@@ -80,11 +80,4 @@
 
 ---
 
-## 🗂️ Suggested Folder Structure (Optional)
 
-```bash
-📦 Ansys_Semiconductor_Packaging
- ┣ 📂 Module4_ReliabilityTests
- ┃ ┣ 📜 README.md
- ┃ ┣ 📂 Reports
- ┃ ┗ 📜 Summary_FA_Logs.csv
