@@ -30,6 +30,7 @@
 - **Continuity Checks**: CV scans detect opens/shorts  
 - **AVI**: 5 µm resolution inspection for defects like HoP, NWO, bridging, and voids  
 - **PGSRT Binning**: Grades 1–4 enable strategic device sorting
+- ![image](../images/Module4/Picture1.png)
 </details>
 
 <details>
@@ -46,6 +47,7 @@
 - **Chamber Testing**: From –40 °C to +85 °C  
 - **ATE Execution**: Functional, scan, memory BIST, and BIST routines  
 - **Parallel Testing**: Faster throughput with multi-site handlers and spy patterns
+-  ![image](../images/Module4/Picture2.png)
 </details>
 
 ---
@@ -53,6 +55,7 @@
 ## ⚙️ 3. ATE-Driven Quality Assurance
 
 <details>
+   ![image](../images/Module4/Picture3.png)
   <summary>🔌 3.1 Parametric & Functional Test Coverage</summary>
 
 - **IDDQ/IDD**: Current-based leakage detection  
@@ -76,6 +79,7 @@
 - **DPPM Tracking**: Yield trends across test nodes  
 - **Screening Efficiency**: Test coverage vs. cycle time tradeoffs  
 - **Root Cause Analysis**: Feedback loop via FA to tune upstream stages
+-  ![image](../images/Module4/Picture4.png)
 </details>
 
 ---
