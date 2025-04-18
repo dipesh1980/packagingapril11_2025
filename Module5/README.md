@@ -55,8 +55,25 @@ Set the thickness to:
 
 ## 📸 Simulation Steps
 
-> *(Add screenshots here)*  
-You can include screenshots of each step to visually document the simulation process.
+><table>
+  <tr>
+    <td><img src="../images/Module5/Picture1.png" width="250"/></td>
+    <td><img src="../images/Module5/Picture2.png" width="250"/></td>
+    <td><img src="../images/Module5/Picture3.png" width="250"/></td>
+    <td><img src="../images/Module5/Picture4.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/Module5/Picture5.png" width="250"/></td>
+    <td><img src="../images/Module5/Picture6.png" width="250"/></td>
+    <td><img src="../images/Module5/Picture7.png" width="250"/></td>
+    <td><img src="../images/Module5/Picture8.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="../images/Module5/Picture9.png" width="250"/></td>
+    <td><img src="../images/Module5/Picture10.png" width="250"/></td>
+    
+  </tr>
+  </table>
 
 ---
 
