@@ -1,2 +1,0 @@
-# semiconductor packaging
-semiconductor packaging
