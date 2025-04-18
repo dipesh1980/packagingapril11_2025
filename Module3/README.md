@@ -135,32 +135,32 @@ Click `Validate` from the top bar
     <td><img src="../images/Module3/Picture5.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="../images/Picture6.png" width="250"/></td>
-    <td><img src="../images/Picture7.png" width="250"/></td>
-    <td><img src="../images/Picture8.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture6.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture7.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture8.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="../images/Picture9.png" width="250"/></td>
-    <td><img src="../images/Picture10.png" width="250"/></td>
-    <td><img src="../images/Picture11.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture9.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture10.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture11.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="../images/Picture12.png" width="250"/></td>
-    <td><img src="../images/Picture13.png" width="250"/></td>
-    <td><img src="../images/Picture14.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture12.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture13.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture14.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="../images/Picture15.png" width="250"/></td>
-    <td><img src="../images/Picture16.png" width="250"/></td>
-    <td><img src="../images/Picture17.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture15.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture16.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture17.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="../images/Picture18.png" width="250"/></td>
-    <td><img src="../images/Picture19.png" width="250"/></td>
-    <td><img src="../images/Picture20.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture18.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture19.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture20.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="../images/Picture21.png" width="250"/></td>
+    <td><img src="../images/Module3/Picture21.png" width="250"/></td>
   </tr>
 
 </table>
